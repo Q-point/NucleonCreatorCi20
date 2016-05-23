@@ -1,0 +1,13 @@
+$ gcc -c -Wall -Werror -fpic ci20.c
+
+$ gcc -shared -o libCi20GPIO.so ci20.o 
+
+from ctypes import *
+GPIO = CDLL("./libCi20GPIO.so")
+
+
+GPIO.ci20ValidGPIO()
+GPIO.setup()
+GPIO.ci20DigitalRead(pin);
+GPIO.ci20DigitalWrite(pin, value);
+GPIO.ci20PinMode(pin,mode);

@@ -1,0 +1,395 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-06 BZR 5410)-product   date = Mon 09 Feb 2015 04:12:04 PM PST
+
+BeginCmp
+TimeStamp = /5737DFC6;
+Reference = B1;
+ValeurCmp = BUTTON_PASSIVE8MM;
+IdModule  = TOUCHWIDGETS_BUTTON_PASSIVE_8MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737E08E;
+Reference = B2;
+ValeurCmp = BUTTON_PASSIVE8MM;
+IdModule  = TOUCHWIDGETS_BUTTON_PASSIVE_8MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737E156;
+Reference = B3;
+ValeurCmp = BUTTON_PASSIVE8MM;
+IdModule  = TOUCHWIDGETS_BUTTON_PASSIVE_8MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737E21E;
+Reference = BATT24;
+ValeurCmp = BATTERY_2032;
+IdModule  = DP_DEVICES_BATT2032;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737E2E6;
+Reference = C1;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737E3AE;
+Reference = C2;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737E476;
+Reference = C3;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737E53E;
+Reference = C4;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737E606;
+Reference = C5;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737E6CE;
+Reference = C6;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737E796;
+Reference = C7;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737E85E;
+Reference = C8;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737E926;
+Reference = C9;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737E9EE;
+Reference = C10;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737EAB6;
+Reference = C11;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737EB7E;
+Reference = C12;
+ValeurCmp = C-EUC0805;
+IdModule  = RCL_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737EC46;
+Reference = C13;
+ValeurCmp = C-EUC0805;
+IdModule  = RCL_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737ED0E;
+Reference = C14;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737EDD6;
+Reference = C15;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737EE9E;
+Reference = C16;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737EF66;
+Reference = C17;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737F02E;
+Reference = C18;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737F0F6;
+Reference = C19;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737F1BE;
+Reference = C20;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737F286;
+Reference = C21;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737F34E;
+Reference = C22;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737F416;
+Reference = C23;
+ValeurCmp = C-EUC0603;
+IdModule  = RCL_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737F4DE;
+Reference = CE24;
+ValeurCmp = CE_MARK5MM;
+IdModule  = SCHMALZHAUSPUBLIC_CE_5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737F5A6;
+Reference = CONN24;
+ValeurCmp = RASPBERRY-PI_REV1;
+IdModule  = RPI_RASPBERRY-PI_REV1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737F66E;
+Reference = GLCD24;
+ValeurCmp = M08LOCK;
+IdModule  = SPARKFUN-CONNECTORS_1X08_LOCK;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737FF06;
+Reference = IC1;
+ValeurCmp = FT230XS;
+IdModule  = FT230XS_SOP63P600X175-16N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5737FFCE;
+Reference = IC2;
+ValeurCmp = REG1117;
+IdModule  = BURR-BROWN_SOT223;
+EndCmp
+
+BeginCmp
+TimeStamp = /57380096;
+Reference = IC3;
+ValeurCmp = FXOS8700CQR1;
+IdModule  = FXOS8700CQR1_QFN50P300X300X120-16N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5738015E;
+Reference = IC4;
+ValeurCmp = CAP1203;
+IdModule  = CAP1203_TDFN-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /57380226;
+Reference = IC5;
+ValeurCmp = APDS-9300;
+IdModule  = APDS-9300_CHIP_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /573802EE;
+Reference = IC6;
+ValeurCmp = S25FL;
+IdModule  = S25_SO-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /573803B6;
+Reference = IC7;
+ValeurCmp = MPL3115A2;
+IdModule  = MPL3115A2_DFN300X500X120-8N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5738047E;
+Reference = IC8;
+ValeurCmp = MCP79400-I/SN;
+IdModule  = MICROCHIP-MCP79400-I_SN_SOIC127P600X175-8N;
+EndCmp
+
+BeginCmp
+TimeStamp = /57380546;
+Reference = IC9;
+ValeurCmp = MCP3221A5T-I/OT;
+IdModule  = MCP3221A5T_SOT95P270X145-5N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5738060E;
+Reference = IC10;
+ValeurCmp = OPA344;
+IdModule  = SPARKFUN_SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /573806D6;
+Reference = L2;
+ValeurCmp = PTC0603;
+IdModule  = SPARKFUN-POWERIC_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5738079E;
+Reference = LED24;
+ValeurCmp = LED_RGB_PLCC4;
+IdModule  = MICROBUILDER_RGBLED_PLCC4;
+EndCmp
+
+BeginCmp
+TimeStamp = /57380866;
+Reference = MIC24;
+ValeurCmp = ELECTRET;
+IdModule  = ADAFRUIT_9.7ELECTRET;
+EndCmp
+
+BeginCmp
+TimeStamp = /5738092E;
+Reference = Q1;
+ValeurCmp = CRYSTALTC26H;
+IdModule  = ADAFRUIT_TC26H;
+EndCmp
+
+BeginCmp
+TimeStamp = /573809F6;
+Reference = R1;
+ValeurCmp = R-EU_R0603;
+IdModule  = RCL_R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /57380ABE;
+Reference = R2;
+ValeurCmp = R-EU_R0603;
+IdModule  = RCL_R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /57380B86;
+Reference = R3;
+ValeurCmp = R-EU_R0603;
+IdModule  = RCL_R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /57380C4E;
+Reference = R4;
+ValeurCmp = R-EU_R0603;
+IdModule  = RCL_R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /57380D16;
+Reference = R5;
+ValeurCmp = R-EU_R0603;
+IdModule  = RCL_R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /57380DDE;
+Reference = R6;
+ValeurCmp = R-EU_R0603;
+IdModule  = RCL_R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /57380EA6;
+Reference = R7;
+ValeurCmp = R-EU_R0603;
+IdModule  = RCL_R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /57380F6E;
+Reference = R8;
+ValeurCmp = R-EU_R0603;
+IdModule  = RCL_R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /57381036;
+Reference = R9;
+ValeurCmp = R-EU_R0603;
+IdModule  = RCL_R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /573810FE;
+Reference = R10;
+ValeurCmp = R-EU_R0603;
+IdModule  = RCL_R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /573811C6;
+Reference = ROHS24;
+ValeurCmp = ROSH_GARBAGE;
+IdModule  = SCHMALZHAUSPUBLIC_ROHS_GARBAGE_5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5738128E;
+Reference = USB24;
+ValeurCmp = CONN_USB;
+IdModule  = DP_DEVICES_CONN_USB_MINI-B;
+EndCmp
+
+EndListe
