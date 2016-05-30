@@ -1,8 +1,8 @@
 #!/usr/bin/python
 
 """
-__author__ = "D.Qendri"
-__copyright__ = "Copyright 2015 Sensorian"
+__author__ = "dhq"
+__copyright__ = "Copyright 2016"
 __license__ = "GPL V3"
 __version__ = "1.0"
 """

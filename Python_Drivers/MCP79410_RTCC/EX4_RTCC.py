@@ -40,5 +40,3 @@ while True:
 	print tmr	
 	time.sleep(1)
 	
-__author__      = "Dhimiter Qendri"
-__copyright__   = "Copyright June 2015"

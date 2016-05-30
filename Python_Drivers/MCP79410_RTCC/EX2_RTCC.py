@@ -29,5 +29,3 @@ if __name__ == '__main__':
     except KeyboardInterrupt:
         print("")
 		
-__author__      = "Dhimiter Qendri"
-__copyright__   = "Copyright June 2015"

@@ -48,5 +48,3 @@ while True:
 	disp.display()
 	time.sleep(1)
 
-__author__      = "dhq"
-__copyright__   = "dhq May 2016"

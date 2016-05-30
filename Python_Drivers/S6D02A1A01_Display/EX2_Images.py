@@ -26,6 +26,5 @@ while True:
 	print 'Drawing image'
 	graphicDisplay.display(image2)					# Draw the image on the display hardware.
 	time.sleep(3)
+
 	
-__author__      = "Dhimiter Qendri"
-__copyright__   = "Copyright June 2015"

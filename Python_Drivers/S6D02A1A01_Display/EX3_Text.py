@@ -52,6 +52,3 @@ def main():
 
 if __name__=="__main__":
     main()
-	
-__author__      = "Dhimiter Qendri"
-__copyright__   = "Copyright June 2015"
